@@ -76,3 +76,26 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Quick Start
+# Install Dependencies
+composer install
+# Install JS Dependencies
+npm install
+# Watch Files in Command 1
+npm run watch
+# Running PHP in Command 2
+php artisan serve
+
+## Endpoints
+# List all patientss with links and meta
+GET api/patients
+# Get single patients
+GET api/patient/{id}
+# Delete article
+DELETE api/patient/{id}
+# Add article
+POST api/patient
+# Update article
+PUT api/patient/{id}
