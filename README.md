@@ -21,7 +21,7 @@ npm run watch
 php artisan serve
 
 ## Endpoints
-4 Table => patients, doctors, medicines, medicalrecords
+4 Table => patients, doctors, medicines, medicalrecords\n
 The command of api is same, this is example of command for API of "patients"
 ### List all patientss with links and meta
 GET api/patients
