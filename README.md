@@ -22,7 +22,7 @@ php artisan serve
 
 ## Endpoints
 ### The table is 4 => patients, doctors, medicines, medicalrecords
-### The command of api is same, this is example of commands for API of "patients" :
+### The command of API for all tables are the same, this is example of commands for API of "patients" :
 ### - List all patients with links and meta
 GET api/patients
 ### - Get single patients
