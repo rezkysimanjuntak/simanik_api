@@ -79,23 +79,23 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## Quick Start
-# Install Dependencies
+### Install Dependencies
 composer install
-# Install JS Dependencies
+### Install JS Dependencies
 npm install
-# Watch Files in Command 1
+### Watch Files in Command 1
 npm run watch
-# Running PHP in Command 2
+### Running PHP in Command 2
 php artisan serve
 
 ## Endpoints
-# List all patientss with links and meta
+### List all patientss with links and meta
 GET api/patients
-# Get single patients
+### Get single patients
 GET api/patient/{id}
-# Delete article
+### Delete article
 DELETE api/patient/{id}
-# Add article
+### Add article
 POST api/patient
-# Update article
+### Update article
 PUT api/patient/{id}
