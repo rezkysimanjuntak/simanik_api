@@ -21,15 +21,15 @@ npm run watch
 php artisan serve
 
 ## Endpoints
-### 4 Table => patients, doctors, medicines, medicalrecords
+### The table is 4 => patients, doctors, medicines, medicalrecords
 ### The command of api is same, this is example of command for API of "patients"
-### List all patientss with links and meta
+### - List all patientss with links and meta
 GET api/patients
-### Get single patients
+### - Get single patients
 GET api/patient/{id}
-### Delete article
+### - Delete article
 DELETE api/patient/{id}
-### Add article
+### - Add article
 POST api/patient
-### Update article
+### - Update article
 PUT api/patient/{id}
