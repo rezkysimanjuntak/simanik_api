@@ -10,7 +10,7 @@
 
 ### Database
 Database queries can be found in the Database folder by name :
-klinik_db_database.sql
+#### klinik_db_database.sql
 
 ## Quick Start
 ### 1. Install Dependencies
